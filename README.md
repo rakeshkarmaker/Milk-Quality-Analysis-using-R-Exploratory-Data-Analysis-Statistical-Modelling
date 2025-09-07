@@ -25,4 +25,4 @@ Analyze milk quality data using **R**, combining statistical tests and visualiza
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/milk-quality-analysis.git
+   git clone https://github.com/rakeshkarmaker/Milk-Quality-Analysis-using-R-Exploratory-Data-Analysis-Statistical-Modelling.git
