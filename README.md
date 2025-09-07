@@ -1,0 +1,2 @@
+# Milk-Quality-Analysis-using-R-Exploratory-Data-Analysis-Statistical-Modelling
+Data Science project analyzing milk quality dataset using R. Includes statistical tests (t-tests, chi-square, ANOVA, correlation analysis) and advanced data visualization (histograms, scatter plots, violin plots, radar charts, and line plots) to explore relationships between milk properties such as pH, temperature, color, odor, and taste.
